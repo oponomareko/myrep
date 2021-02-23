@@ -1,4 +1,0 @@
-cp-kafka-rest:
-  enabled: true
-  external:
-    enabled: true

@@ -1,6 +1,0 @@
-- hosts: local
-  vars:
-    jenkins_hostname: jenkins.example.com
-  roles:
-    - role: jenkins
-      become: yes
